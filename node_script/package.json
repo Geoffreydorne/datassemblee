@@ -1,0 +1,15 @@
+{
+  "name": "compilejson",
+  "description": "A simple script to create tree.json the source file of datassemblee.fr",
+  "keywords": [
+    "parlementaire",
+    "vote",
+    "datassemble"
+  ],
+  "version": "1.0.0",
+  "author": "Adrien Rahier",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.2"
+  }
+}

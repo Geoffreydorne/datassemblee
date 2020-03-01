@@ -1,0 +1,4 @@
+/node_script/node_modules
+/node_script/sources
+/.vscode
+.DS_Store
