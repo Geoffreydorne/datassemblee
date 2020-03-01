@@ -10,10 +10,10 @@
 $ sudo npm i
 ```
 
-6. Still in your console, execute the following command
+6. Still in your console, execute the following command. This will launch the execution of the cleaning script.
 
 ```js
 $ node index.js
 ```
 
-7. Hop! You should now have a clean `tree.json` file in the /tree folder. 
+7. Hop! You should now have a clean `tree.json` file in the /tree folder. This Json will be used by the dataviz to display the votes.
