@@ -10,6 +10,6 @@
   "author": "Adrien Rahier",
   "main": "index.js",
   "dependencies": {
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
